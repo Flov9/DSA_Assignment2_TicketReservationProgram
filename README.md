@@ -26,5 +26,6 @@ However, I feel like the linked list should be a sorted one because:
 ---
 - Create a GUI using JavaFX 
 - Change it to a sorted linked list
+- Try to create a linked list of flights with each node including a reference to a linked list of passengers. 
 
 ...
