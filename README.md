@@ -1,4 +1,4 @@
-# DSA_Assignment2_TicketReservationProgram
+# linkedlist-ticket-reservation-program
 
 A simple airline ticket reservation program using linked list.
 
